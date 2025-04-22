@@ -1,0 +1,5 @@
+websocket-client==1.5.1
+pyaudio==0.2.13
+python-dotenv==1.0.0
+vosk==0.3.45
+numpy==1.24.3
