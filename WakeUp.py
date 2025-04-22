@@ -60,7 +60,7 @@ class VoskWakeup:
         """
         初始化Vosk唤醒词检测
         :param model_path: Vosk模型路径
-        :param wake_words: 唤醒词列表，默认为 ["你好小智", "你好小知", "小智小智", "小知小知"]
+        :param wake_words: 唤醒词列表，默认为 ["一二三"]
         """
         self.model_path = model_path
         self.is_running = False
