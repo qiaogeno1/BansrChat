@@ -69,7 +69,7 @@ class VoskWakeup:
         
         # 设置默认唤醒词
         if wake_words is None:
-            self.wake_words = ["你好小智", "你好小知", "小智小智", "小知小知"]
+            self.wake_words = ["一二三"]
         else:
             self.wake_words = wake_words
             
